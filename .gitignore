@@ -3,3 +3,4 @@ nginx
 .DS_Store
 .idea
 wordpress
+!wordpress/wp-content/themes/anagocleaning/*
